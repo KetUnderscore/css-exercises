@@ -1,0 +1,19 @@
+p {
+    background-color: #f5a190;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#secular {
+    color: #3d3f8f;
+    font-size: 36px;
+}
+
+.large {
+    font-size: 24px;
+}
+
+#divided {
+    background-color: #b3d1ae;
+    font-size: 24px;
+    font-weight: bold;
+}
